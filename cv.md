@@ -1,5 +1,5 @@
 # CV
-## Polyakova Alina
+## ![Polyakova Alina](/flowers.webp)
 
 *******
 ### Contact information:
