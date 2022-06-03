@@ -1,9 +1,9 @@
 # CV
 ## Polyakova Alina
 ### Contact information:
-Phone: +79170259668
-E-mail: alina151196@mail.ru
-Github: Alis2022
+**Phone:** +79170259668
+**E-mail:** alina151196@mail.ru
+**Github:** Alis2022
 
 ### Skills and Proficiency
 * Git, GitHub
