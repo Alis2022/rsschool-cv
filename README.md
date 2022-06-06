@@ -1,1 +1,1 @@
-https://Alis2022.github.io/rsschool-cv/
+https://Alis2022.github.io/rsschool-cv/cv
