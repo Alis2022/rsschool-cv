@@ -46,3 +46,8 @@ body {
     background-color: #5c83be;
     color: #fff;
 }
+
+.pre {
+    display: inline-block;
+    text-align: left;
+}
