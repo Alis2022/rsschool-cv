@@ -1,3 +1,27 @@
-.h1font {
-    ;
+.content {
+    text-align: center;
+}
+
+.h2style {
+    
+}
+
+footer {
+    display: flex;
+    justify-content: left;
+    padding: 10px 15px;
+    background-color: #5c83be;
+    color: #fff;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 10px 15px;
+    background-color: #5c83be;
+    color: #fff;
+}
+
+body {
+    background-color: #d8e6fa;
 }
