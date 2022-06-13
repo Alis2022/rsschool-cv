@@ -2,16 +2,27 @@
     text-align: center;
 }
 
+.center {
+    display: inline-block}
+    ul {
+    text-align: left;
+    }
+
 .h2style {
-    
+    color: #032f81;
 }
 
 footer {
-    display: flex;
-    justify-content: left;
     padding: 10px 15px;
     background-color: #5c83be;
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
     color: #fff;
+    justify-content: space-between;
 }
 
 header {
@@ -24,4 +35,14 @@ header {
 
 body {
     background-color: #d8e6fa;
+}
+
+.rsslogo {
+    width: 130px;
+    height: 60px;
+}
+
+.site {
+    background-color: #5c83be;
+    color: #fff;
 }
