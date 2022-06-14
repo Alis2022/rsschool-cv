@@ -1,0 +1,116 @@
+.content {
+    text-align: center;
+}
+
+.center {
+    display: inline-block}
+    ul {
+    text-align: left;
+    }
+
+.h2style {
+    color: #032f81;
+}
+
+.footer {
+    padding: 10px 15px;
+    background-color: #c07007;
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    color: #fff;
+    justify-content: space-between;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 10px 15px;
+    background-color: #c07007;
+    color: #fff;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #dacdba;
+    font-family: Arial sans-serif;
+}
+
+.rsslogo {
+    width: 130px;
+    height: 60px;
+}
+
+.site {
+    color: #fff;
+}
+
+.pre {
+    display: inline-block;
+    text-align: left;
+}
+
+.profile-foto {
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    object-fit: cover;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
+    transition: .3s;
+    padding: 20px 20px;
+}
+
+.h1 {
+    position: relative;
+    color: #4d2323;
+    font-size: 32px;
+    font-weight: 300;
+    letter-spacing: 20px;
+    word-spacing: 3px;
+}
+
+.section h1 {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 20px;
+    border-bottom: 15px solid #d7d1c9;
+}
+
+.nav-text {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    font-weight: bold;
+}
+
+.nav-link {
+    padding: 0 20px;
+    text-decoration: none;
+    color: #4d2323;
+    
+}
+
+.profile-title {
+    margin: 10px 50%;
+}
+
+.section {
+    width: calc(100% - 20px);
+    padding: 10px;
+    padding-bottom: 35px;
+    border-bottom: 1px solid #a66c40;
+    text-align: center;
+}
+
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
