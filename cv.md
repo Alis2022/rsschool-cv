@@ -1,7 +1,7 @@
 # CV
 ## Polyakova Alina 
 
-![abc](/picture/fon.jpg)
+![abc](./picture/fon.jpg)
 
 *******
 ### Contact information:
