@@ -12,9 +12,9 @@
     color: #032f81;
 }
 
-footer {
+.footer {
     padding: 10px 15px;
-    background-color: #5c83be;
+    background-color: #c07007;
 }
 
 .footer-container {
@@ -29,12 +29,13 @@ header {
     display: flex;
     justify-content: center;
     padding: 10px 15px;
-    background-color: #5c83be;
+    background-color: #c07007;
     color: #fff;
 }
 
 body {
-    background-color: #d8e6fa;
+    background-color: #dacdba;
+    font-family: Arial sans-serif;
 }
 
 .rsslogo {
@@ -43,11 +44,54 @@ body {
 }
 
 .site {
-    background-color: #5c83be;
     color: #fff;
 }
 
 .pre {
     display: inline-block;
     text-align: left;
+}
+
+.profile-foto {
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    object-fit: cover;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
+    filter: grayscale(0.2) brightness(1.05);
+    transition: .3s;
+    padding: 20px 20px;
+    margin: 30px 40%;
+}
+
+.h1 {
+    position: relative;
+    color: #4d2323;
+    font-size: 32px;
+    font-weight: 300;
+    letter-spacing: 20px;
+    word-spacing: 3px;
+}
+
+.section h1 {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 35px 30px;
+    border-bottom: 15px solid #d7d1c9;
+}
+
+.nav-text {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    font-weight: bold;
+}
+
+.nav-link {
+    padding: 0 20px;
+    text-decoration: none;
+    color: #4d2323;
+    
 }
